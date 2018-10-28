@@ -1,0 +1,8 @@
+47, Space Battleship Yamato The New Voyage, Movie, 1, 5, 1;
+48, Space Battleship Yamato Be Forever!, Movie, 1, 5, 1;
+49, Space Battleship Yamato Final, Movie, 1, 5, 1;
+106, Space Battleship Yamato 2, TV, 26, 5, 1;
+145, Space Battleship Yamato 3, TV, 25, 5, 1;
+146, The Ancient Magus Bride, TV, 24, 6, 1;
+149, JoJos Bizarre Adventure Diamond Is Unbreakable, TV, 39, 5, 0;
+#

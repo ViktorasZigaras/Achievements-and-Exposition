@@ -1,0 +1,10 @@
+times launched: 121;
+last launched: Thu Oct 04 18:13:45 EEST 2018;
+d:\animeList\files\;
+seen.txt;
+watching.txt;
+known.txt;
+ID.txt;
+name.txt;
+search.txt;
+d:\animeList\pictures\;

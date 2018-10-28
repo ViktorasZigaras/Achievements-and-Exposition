@@ -1,0 +1,18 @@
+69, Cosmo Warrior Zero, TV, 13, 4, 0;
+78, House of Five Leaves, TV, 12, 5, 0;
+83, Blue Submarine No.6, OVA, 4, 5, 0;
+84, Galaxy Express 999, TV, 113, 5, 0;
+89, Steamboy, Movie, 1, 6, 0;
+90, Paprika, Movie, 1, 6, 0;
+92, Trigun, TV, 26, 5, 0;
+93, Rowdy Sumo Wrestler Matsutaro!!, TV, 23, 5, 0;
+94, After School Midnighters, Movie, 1, 6, 0;
+100, PlanetES, TV, 26, 5, 1;
+109, Vision of Escaflowne, TV, 26, 5, 1;
+114, Children Who Chase Lost Voices From Deep Below, Movie, 1, 5, 1;
+117, Oblivion Island, Movie, 1, 5, 1;
+119, The Secret World of Arrietty, Movie, 1, 5, 1;
+120, 5 Centimeters per Second, Movie, 1, 5, 0;
+122, The Place Promised in Our Early Days, Movie, 1, 5, 0;
+131, Mawaru Penguin Drum, TV, 24, 5, 0;
+#

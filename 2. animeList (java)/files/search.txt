@@ -1,0 +1,24 @@
+1, S Ah! My Goddess, TV, 27, 6, 3;
+2, S Ah! My Goddess Everybody has wings, TV, 24, 6, 3;
+3, S Ah! My Goddess Fighting Wings, OVA, 2, 6, 3;
+4, S Ah! My Goddess the Movie, Movie, 1, 6, 2;
+5, S Ah! My Goddess OVA, OVA, 5, 6, 2;
+9, S NHK ni Youkoso!, TV, 26, 6, 2;
+13, S Vandread, TV, 26, 6, 4;
+18, S Cowboy Bepop, TV, 26, 6, 2;
+43, S Interstella 5555, Movie, 1, 6, 13;
+63, S Aria the Animation, TV, 13, 6, 1;
+64, S Aria the Natural, TV, 26, 6, 1;
+65, S Aria the Origination, TV, 13, 6, 1;
+66, S Aria the OVA Arietta, OVA, 1, 6, 1;
+95, S The Garden of Sinners, Movie, 7, 6, 1;
+111, S Fullmetal Alchemist, TV, 51, 6, 1;
+152, S Solty Rei, TV, 26, 6, 1;
+179, S Ghost in the Shell Stand Alone Complex 2nd GIG, TV, 26, 6, 1;
+181, S Ghost in the Shell S.A.C. 2nd GIG - Individual Eleven, Movie, 1, 6, 1;
+196, S Wall-E, Movie, 1, 6, 3;
+200, S Fullmetal Alchemist Conqueror of Shamballa, Movie, 1, 6, 1;
+203, S La Maison en Petits Cubes, OVA, 1, 6, 3;
+220, S Paranoia Agent, TV, 13, 6, 2;
+225, W Monster, TV, 74, 6, 0;
+#
