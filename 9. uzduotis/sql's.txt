@@ -1,0 +1,42 @@
+https://www.w3schools.com/sql/trysql.asp?filename=trysql_desc
+
+2.1
+SELECT * FROM Orders where customerid = 4;
+
+2.2
+SELECT *
+FROM   Customers
+WHERE  NOT EXISTS (SELECT 1 
+                   FROM   Orders 
+                   WHERE  Customers.customerid = Orders.customerid);
+
+alternatyvus pasiulymai kai nera "exists"
+https://stackoverflow.com/questions/15938180/sql-check-if-entry-in-table-a-exists-in-table-b
+
+isitikinimui, kad teisingai
+SELECT * FROM Orders order by customerid;
+
+2.3 + 2.3.1
+SELECT Customers.customerid, COUNT (Orders.customerid) as count_
+FROM Customers
+LEFT JOIN Orders
+ON Customers.customerid = Orders.customerid
+GROUP BY Customers.customerid
+order by COUNT (Orders.customerid) desc, Customers.customerid;
+
+ties situo teko ilgiau pasedeti, supratau is ko gali susidaryti panasus dalykas, bet taip ilgai nedirbes su uzklausom
+buvau pamirses niuansus; order by count(...) matyt galima kitaip, bet manau kolegos pamokys tokiu subtilybiu
+
+2.3(.2??)
+SELECT Customers.customerid, COUNT (Orders.customerid) as count_, SUM (temp.Quantity) as sum_
+FROM ( Customers 
+LEFT JOIN Orders
+	ON Customers.customerid = Orders.customerid )
+LEFT JOIN (SELECT OrderID, SUM(Quantity) AS Quantity FROM OrderDetails GROUP BY OrderID) temp
+    ON temp.OrderID = Orders.OrderID 
+GROUP BY Customers.customerid order by COUNT (Orders.customerid) desc, Customers.customerid;
+
+pirma susiskaiciavau uzsakymu sumas
+(SELECT OrderID, SUM(Quantity) AS Quantity FROM OrderDetails GROUP BY OrderID)
+tada galvojau, kas toliau, intuicija patare - daugiau joinu, bet kuri laika nesupratau del ko meta klaidas - 
+pasirodo, ivairiose vietose reikia ivairiu skliaustu tarp from ir joins
