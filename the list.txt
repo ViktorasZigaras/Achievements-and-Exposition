@@ -23,6 +23,8 @@ reziume: man buna idomus tiek duomenys, tiek sasajos tarp dalyku, tiek fizinis, 
 
 6. penki metai su flash: velgi su Morrowind rpg susijes sau rasytas projektukas kuris lygina ir pateikia objektu analize; bin-debug galima pasileisti jei yra kompe flash, jei ne, yra screenshot; idomus momentai: "src" data failas - lokali primityvi "duombaze", Morrowind failas - daug kodo, bet uztenka pamatyti naudojamas formas - gryna java kaip ir javos pavyzdyje, tik cia as visus objektus ekrane sukuriu individualiai programiskai ir taip pat juos valdau;
 
-7. praitos savaites react pratimas kuriam prireike 10+ valandu, didzioji laiko dalis suejo aiskinantis kaip pakrauti ivairias bibliotekas, kurios is ju veikia, kurios ne, pasirodo tik importo ne viskam uztenka; "src" yra App.js, is nemazai kodo tereikia pastebeti siuos dalykus: yra importai, klases, jose generuojamas html, yra metodai, o daug kas visiskai kitaip nei java/c#; yra screenshot, yra tekstinis failas kuris tame app pakraunamas;
+7. nesenas react pratimas kuriam prireike 10+ valandu, didzioji laiko dalis suejo aiskinantis kaip pakrauti ivairias bibliotekas, kurios is ju veikia, kurios ne, pasirodo tik importo ne viskam uztenka (yra ir reikalingi 3 budai: import, requires ir <head> dalyje); "src" yra App.js, is nemazai kodo tereikia pastebeti siuos dalykus: yra importai, klases, jose generuojamas html, yra metodai, o daug kas visiskai kitaip nei java/c#; yra screenshot, yra tekstinis failas kuris tame app pakraunamas;
 
-8. atrinkti tipiniai screenshots is praeitu 8 metu;
+8. atrinkti tipiniai screenshots is praeitu 8 metu (5 metai su flash turejo idomesnius projektus - daugiau spalvu, geometriniu figuru);
+
+9. kitai firmai atliktas pratimas su c# "klaidu taisymu", sql prisiminimu ir duombaziu projektavimu;

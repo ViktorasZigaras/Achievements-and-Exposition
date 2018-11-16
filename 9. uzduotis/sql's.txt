@@ -1,9 +1,11 @@
 https://www.w3schools.com/sql/trysql.asp?filename=trysql_desc
 
-2.1
+2.1 atrinkti pagal parametra
+
 SELECT * FROM Orders where customerid = 4;
 
-2.2
+2.2 ar figuruoja kituose sarasuose konkretus objektai
+
 SELECT *
 FROM   Customers
 WHERE  NOT EXISTS (SELECT 1 
@@ -16,7 +18,8 @@ https://stackoverflow.com/questions/15938180/sql-check-if-entry-in-table-a-exist
 isitikinimui, kad teisingai
 SELECT * FROM Orders order by customerid;
 
-2.3 + 2.3.1
+2.3 + 2.3.1 kiek klientas turi uzsakymu
+
 SELECT Customers.customerid, COUNT (Orders.customerid) as count_
 FROM Customers
 LEFT JOIN Orders
@@ -27,7 +30,8 @@ order by COUNT (Orders.customerid) desc, Customers.customerid;
 ties situo teko ilgiau pasedeti, supratau is ko gali susidaryti panasus dalykas, bet taip ilgai nedirbes su uzklausom
 buvau pamirses niuansus; order by count(...) matyt galima kitaip, bet manau kolegos pamokys tokiu subtilybiu
 
-2.3(.2??)
+2.3(.2??) kokia suma objektu kurias kleintas yra uzsakes
+
 SELECT Customers.customerid, COUNT (Orders.customerid) as count_, SUM (temp.Quantity) as sum_
 FROM ( Customers 
 LEFT JOIN Orders
