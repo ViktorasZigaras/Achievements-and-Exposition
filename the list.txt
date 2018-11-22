@@ -28,3 +28,5 @@ reziume: man buna idomus tiek duomenys, tiek sasajos tarp dalyku, tiek fizinis, 
 8. atrinkti tipiniai screenshots is praeitu 8 metu (5 metai su flash turejo idomesnius projektus - daugiau spalvu, geometriniu figuru);
 
 9. kitai firmai atliktas pratimas su c# "klaidu taisymu", sql prisiminimu ir duombaziu projektavimu;
+
+10. pratimas su python, labai mazai kodo, bet labai daug sub-biblioteku kurias naudoja pagrindine geopandas biblioteka; nezinau, kaip buvo parinktos spalvos, pagal kuri db stulpeli, bet man atrodo graziai, informatyviai; pats efektas pasirodo prizoominus ir vaiksciojant po zemelapi, bet pikseliavimas priartinus didziuosius miestus matosi;
