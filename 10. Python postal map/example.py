@@ -47,6 +47,7 @@ import geopandas as gpd
 
 map = gpd.read_file("db.shp")
 print(map.length) # 13404 of lines
+print(map['POSTNUMMER'].value_counts())
 #print(type(data))
 #print(map.head())
 #this is going to lag! be fore-warned
