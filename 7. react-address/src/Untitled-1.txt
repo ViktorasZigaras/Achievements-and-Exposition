@@ -1,0 +1,72 @@
+<div class="container">
+
+  <h1><a href="https://source.unsplash.com/">Unsplash Source</a> Example</h1>
+  <div class="mark">This Pen is written by @suquiya : <a href="https://donsyoku.com/">website</a> and  <a href="https://twitter.com/suquiya">twitter</a> </div>
+  
+  <h2>From Feature search</h2>
+  <img src="https://source.unsplash.com/featured?technology" width="400" class="sample_img">
+  <div class="description">
+    Image URL: https://source.unsplash.com/featured?technology
+    <br><br>
+    We can get image like below:<br> https://source.unsplash.com/featured?{keyword}
+  </div>
+
+  <div class="sep"></div>
+
+  <h2>From category</h2>
+  <img src="https://source.unsplash.com/category/buildings" width=400 class="sample_img">
+  <div class="description">
+    Image URL: https://source.unsplash.com/category/buildings
+    <br><br>We can get image like below:<br>https://source.unsplash.com/category/{category name}
+  </div>
+
+  <div class="sep"></div>
+
+  <h2>From a specific user</h2>
+  <img src="https://source.unsplash.com/user/jwwhitt" width=400 class="sample_img">
+  <div class="description">
+    Image URL: https://source.unsplash.com/user/jwwhitt
+    <br><br>We can get image like below:<br>https://source.unsplash.com/user/{username}
+  </div>
+
+  <div class="sep"></div>
+
+  <h2>From user's like</h2>
+  <img src="https://source.unsplash.com/user/fuyao/likes" width=400 class="sample_img">
+  <div class="description">
+    Image URL: https://source.unsplash.com/user/fuyao/likes
+    <br><br>We can get image like below:<br>https://source.unsplash.com/{username}/likes
+  </div>
+
+  <div class="sep"></div>
+  
+  <h2>From collection</h2>
+  <img src="https://source.unsplash.com/collection/762855" width=400 class="sample_img">
+  <div class="description">
+    Image URL: https://source.unsplash.com/collection/762855
+    <br><br>We can get image like below:<br>https://source.unsplash.com/collection/{collection id}
+  </div>
+
+  <div class="sep"></div>
+  
+  <h2>From daily</h2>
+  <img src="https://source.unsplash.com/daily" width=400 class="sample_img">
+  <div class="description">
+    Image URL: https://source.unsplash.com/daily
+    <br><br>We can get image like below:<br>https://source.unsplash.com/daily
+  </div>
+
+  <div class="sep"></div> <h2>From weekly</h2>
+
+  <img src="https://source.unsplash.com/weekly" width=400 class="sample_img">
+  <div class="description">
+    Image URL: https://source.unsplash.com/category/weekly
+    <br><br>We can get image like below:<br>https://source.unsplash.com/category/weekly
+  </div>
+
+  <div class="sep"></div> 
+
+  <h2>more...?</h2>
+  see <a href="https://source.unsplash.com/">document</a>, and fork this pen.....
+  
+</div>
