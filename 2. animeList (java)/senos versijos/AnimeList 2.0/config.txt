@@ -1,4 +1,0 @@
-d:\animeList\seen.txt;
-d:\animeList\watching.txt;
-d:\animeList\known.txt;
-
