@@ -1,8 +1,0 @@
-﻿user 1, mail 1, Vilnius, Linkmenų gatvė, 25, 08217;
-user 2, mail 2, Vilnius, Kintu gatvė, 8, 09301;
-user 3, mail 3, Vilnius, Raitininkų gatvė, 2, 09236;
-user 4, mail 4, Vilnius, Filaretų gatvė, 8, 01208;
-user 5, mail 5, Vilnius, Algirdo gatvė, 31, 03219;
-user 6, mail 6, Vilnius, Vandentiekio gatvė, 7, 03151;
-user 7, mail 7, Vilnius, Bukcių gatvė, 5, 04127;
-user 8, mail 8, Vilnius, Sietyno gatvė, 21, 04316;
