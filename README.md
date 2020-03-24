@@ -36,7 +36,7 @@ Additionally, I've been accumulating various examples when attending BIT starter
 
 **7. Screenshots section:** here are a good amount of Angular and Flash freelance project screenshots. I named "main" ones as largest and most interesting single projects from both eras (I've worked with Flash for 5+ years and Angular for about 2 years). There are also a few personal photos. Re: Flash main body of screenshots, they are arranged thematically by the project they belonged to and use naming format (group)-(instance). Some of the minor ones were prototypes or support tools like photo generators.
 
-You can find more of my achievements in Facebook - flower breeding, minecraft and other pc game construction - https://www.facebook.com/viktoras.zigaras; also you can visit my LinkedIn - https://www.linkedin.com/in/viktoras-%C5%BEigaras-16165860/.
+You can find more of my achievements in Facebook - flower breeding, minecraft and other pc game construction - https://www.facebook.com/viktoras.zigaras; also you can visit my LinkedIn - https://www.linkedin.com/in/viktoras-%C5%BEigaras-16165860/. I also provide my CV in case anyone is interested.
 
 And finally a few "fun facts"/achievements I've did outside of programming which illustrate my hobbies and way of thinking more:
 
